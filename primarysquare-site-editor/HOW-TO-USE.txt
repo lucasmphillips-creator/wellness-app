@@ -1,0 +1,35 @@
+PRIMARY SQUARE — EDITABLE WEBSITE COPY
+======================================
+A full offline copy of primarysquare.com (7 pages: home, about, for providers,
+marketplace, waitlist, privacy policy, terms) with an editing toolbar built in.
+Copied from the live site on 2026-11-20.
+
+HOW TO USE
+1. Unzip this folder anywhere on your computer (keep all the files together).
+2. Double-click index.html. It opens in your browser (Chrome, Edge, Safari or Firefox).
+3. Use the toolbar at the bottom of the page:
+     Browse        - click around the site normally (menus and links work)
+     Edit text     - click any heading, paragraph or button text and type.
+                     Enter = save, Shift+Enter = new line, Esc = cancel.
+     Add note      - click a photo, button, background or section to describe a
+                     change ("make this green", "remove this") or attach a new image.
+     Changes (n)   - see, jump to or undo everything you've changed.
+4. When you're done, click "Send to developers". It downloads ONE file:
+     primarysquare-change-request-<date>.html
+   It lists every change on every page (old wording vs new wording, notes,
+   attached images, and the exact code location for the developers).
+   A plain-text summary is also copied to your clipboard to paste into the email.
+5. Email that file to your developers.
+
+GOOD TO KNOW
+- Your edits save automatically in this browser. You can close it and come back,
+  as long as you use the same browser and the same folder.
+- Most sections have separate desktop and mobile versions. To edit the mobile
+  version, make the browser window narrow. Each change says which one it's in.
+- "Changes > Download this edited page" saves a full copy of the current page with
+  your text edits applied, if a developer would rather have the whole file.
+- "Changes > Discard all changes" wipes everything (on all pages) and starts over.
+- Forms (like the waitlist) don't send anything while you're editing.
+- If the toolbar is in the way, click "–" to tuck it away and "Edit site" to bring it back.
+- Firefox may keep each page's edits separately. If the export is missing a page,
+  open that page and click "Send to developers" there too, or use Chrome/Edge.
